@@ -1,0 +1,12 @@
+[[pkgs]]
+type = "github"
+distrib = "small"
+package = "small-1.0-py3-none-any"
+ext = "whl"
+sha256 = "0f0742322121ffc10ffad826bb63273266db45b52a077f25f55067d54f9f89a6"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200223205629500269/releases/assets/18234091"
+
+[pkgs.meta]
+name = "small"
+distrib = "small"
+sha256 = "0f0742322121ffc10ffad826bb63273266db45b52a077f25f55067d54f9f89a6"
